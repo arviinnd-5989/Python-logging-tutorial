@@ -1,0 +1,10 @@
+2021-01-20 15:08:05,885 - module1 - DEBUG - debug message for module1
+2021-01-20 15:08:05,885 - module1 - INFO - info message for module1
+2021-01-20 15:08:05,885 - module1 - WARNING - warn message for module1
+2021-01-20 15:08:05,885 - module1 - ERROR - error message for module1
+2021-01-20 15:08:05,885 - module1 - CRITICAL - critical message for module1
+2021-01-20 15:08:05,885 - module2 - ERROR - Here is an error
+Traceback (most recent call last):
+  File "/home/arvind/45 logging/module2.py", line 29, in mod2
+    error
+NameError: name 'error' is not defined

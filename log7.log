@@ -1,0 +1,10 @@
+2021-01-20 14:55:53,887 - simple_example - DEBUG - debug message
+2021-01-20 14:55:53,887 - simple_example - INFO - info message
+2021-01-20 14:55:53,887 - simple_example - WARNING - warn message
+2021-01-20 14:55:53,887 - simple_example - ERROR - error message
+2021-01-20 14:55:53,887 - simple_example - CRITICAL - critical message
+2021-01-20 14:55:53,887 - simple_example - ERROR - Here is an error
+Traceback (most recent call last):
+  File "log7.py", line 28, in <module>
+    error
+NameError: name 'error' is not defined
